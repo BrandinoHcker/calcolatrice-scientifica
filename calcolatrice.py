@@ -1,4 +1,4 @@
-import math
+ vimport math
 
 def calcolatrice():
     while True:
@@ -64,4 +64,5 @@ def calcolatrice():
 
 # Avvia il programma
 calcolatrice()
+
 
